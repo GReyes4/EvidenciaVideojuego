@@ -3,7 +3,8 @@ Tron Classic Arcade Game
 
 Autores:
 Roberto González Reyes A00833852
-Adrian Gomez
+Adrian Gomez Castillo A00835254
+Diego Rodriguez Orozco A00835032
 
 
 """
