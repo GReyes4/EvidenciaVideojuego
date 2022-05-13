@@ -1,0 +1,20 @@
+Autores:
+A00835254- ADRIAN GOMEZ 
+A00833852- ROBERTO GONZALEZ
+A00835032- DIEGO ROGRIGUEZ
+
+
+TRON ARCADE GAME
+El juego que utilizamos como base fue el juego de Tron, el juego consiste en dos jugadores que utilizan las teclas
+para hacer líneas y cualquiera de los dos que choque en la línea del otro pierde y el otro jugador gana 
+
+
+CÓDIGO BASE
+Nos apoyamos en la versión del juego desarrollada por freegames, si quieres ver esta versión visita el sitio: https://grantjenks.com/docs/freegames/tron.html
+
+
+COSAS QUE LE AGREGAMOS AL JUEGO
+El juego ya que lo usamos como base lo decidimos mejorar para que la versión sea a la vez más entretenida como 
+también más competitiva, lo que decidimos agregar al juego fue una opción de cambio de color del personaje, por lo que 
+al ejecutar mostramos un menú para señalar cuáles son las opciones disponibles al usuario, elige el número que le corresponde al color y por medio de una
+función convertimos el número al color deseado en un formato que turtle entienda.
